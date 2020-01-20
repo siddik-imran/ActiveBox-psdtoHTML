@@ -1,0 +1,227 @@
+.header_area{
+    background-image: url(../img/Psd/ActiveBox.png);
+}
+.temp2 ul{
+    padding-top: 15px;
+    float:right
+}
+.temp2 ul li{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    font-size: 19px;
+}
+.temp2 ul li a{
+    display: block;
+     text-decoration: none;
+    font-family: 'raleway', bold;
+    
+}
+.temp1 img{
+    padding-top: 25px;
+}
+.temp4{
+    color: white;
+    text-align: center;
+    font-size: 64px;
+}
+.temp6{
+     color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 20px 0 40px 0;
+}
+.temp6 p{
+    font-family:  'Raleway';
+}
+.temp7 a{
+    text-align: center;
+    background-color: red;
+    padding: 8px 35px ;
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+    font-family: Raleway SemiBold;
+     
+}
+.temp3{
+    padding: 70px 0 95px 0;
+}
+.temp4 h1{
+     font-family:  'Open Sans', bold;
+    font-size: 65px;
+}
+.top{
+    padding: 80px 0;
+}
+.tp1{
+}
+.tp2{
+    padding-top: 40px
+}
+.main1{
+    text-align: center;
+}
+.main2{
+    text-align: center;
+}
+.main3{
+    text-align: center;
+}
+.main4{
+    text-align: center;
+}
+.main5{
+    text-align: center;
+}
+.main6{
+    text-align: center;
+}
+.im2 {
+    float: left;
+    width: 336px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    position: relative;
+}
+.im2:hover .overlay{
+    display: block;
+}
+.im2 img {
+    width: 100%;
+}
+.slider_img img {
+    width: 100%;
+}
+.overlay {
+    background: red;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    padding-top: 22%;
+    opacity: .7;
+    display: none;
+}
+.slider_img {
+    width: 672px;
+    margin-right: 1px;
+    float: left;
+}
+.slider_text {
+    width: 674px;
+    float: left;
+    background: #53354A;
+    color: #fff;
+    font-family: 'Cardo';
+    font-style: italic;
+}
+.slider_text h2 {
+    padding: 113px 83px;
+}
+.icon ul li i {}
+
+.icon ul {
+    list-style: none;
+    padding: 0;
+}
+
+.icon ul li {
+    display: inline-block;
+}
+
+.icon ul li a {
+    display: block;
+    border: 1px solid #fff;
+    padding: 5px 14px;
+    color: #fff;
+    font-size: 20px;
+}
+.image{
+   padding-bottom: 70px 0;
+}
+.text_area{
+    text-align: center;
+    
+
+}
+#p1{
+    font-size: 20px;
+    padding-top: 70px;
+    font-family: 'Raleway',Light;
+}
+#p2{
+    font-size: 11px;
+    font-family: 'Raleway',Bold;
+    padding-bottom: 20px;
+}
+.text_area a{
+    text-align: center;
+    background-color: red;
+    padding: 10px 35px ;
+    color: white;
+    font-size: 12px;
+    text-decoration: none;
+     font-family: Raleway SemiBold;
+
+    
+}
+.tree{
+    background-image: url(../img/Psd/ActiveBox-12.png);
+   margin-top: 70px;
+}
+.ip1{
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+.ip2{
+    color: white;
+   padding: 50px 0;   text-align: center;
+}
+.ip3{
+    color: white;
+    text-align: center;
+      padding: 50px 0;
+}
+.footer_area{
+    background-image: url(../img/Psd/ActiveBox-13.png);
+    
+}  
+.tx{
+    text-align: center;
+    color: white;
+    padding: 10px 0;
+}
+.im11{
+    background-image: url(../img/Psd/ActiveBox-11.png)
+}
+.im11 p{
+    padding-top: 30px;
+    font-size: 30px
+}
+.im11 #r{
+    font-size: 12px;
+    font-family: 'Raleway', Bold;
+}
+.h4 h4{
+    font-family: 'Raleway' , bold;
+}  
+.text p{
+    font-family: 'Raleway';
+}
+.im11 p{
+    font-family: Cardo Italic;
+}
+.tx p{
+    font-family: Raleway;
+}
+#t1{
+    font-family: 'Raleway', Bold;
+    font-size: 18px;
+}
+#t2{
+    font-family: Raleway;
+    
+}
